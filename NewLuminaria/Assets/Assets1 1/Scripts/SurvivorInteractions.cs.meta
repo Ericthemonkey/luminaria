@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 58f3a0c91a6f4a445b9c9433d788b31e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ItemSlot1UI: {instanceID: 0}
+  - ItemSlot2UI: {instanceID: 0}
+  - ItemSlot3UI: {instanceID: 0}
+  - SelectedItemUI: {instanceID: 0}
+  - CarPartPrefab: {fileID: 7417239401519352629, guid: 0f3b10533a5e14649b58dd873ac25646, type: 3}
+  - GateKeyPrefab: {fileID: 1972715506429825471, guid: 0d7590ab7df0f4e4b858671bcc9b0945, type: 3}
+  - FusePrefab: {fileID: 6573916473017093262, guid: ba12224a83beb474e96c269b01d893a4, type: 3}
+  - BandagePrefab: {fileID: 7269524847168071929, guid: 37c476d7166ccd740842a197d80fb384, type: 3}
+  - ChocPrefab: {fileID: 6531742209282094703, guid: df2f5e3d21f6fbf42a256273c6690a1c, type: 3}
+  - LampPrefab: {fileID: 1196599022885020385, guid: 8e189910b867e7b45915a8084573a4eb, type: 3}
+  - InteractUI: {instanceID: 0}
+  - DropLocationT: {instanceID: 0}
+  - interactionBarScript: {instanceID: 0}
+  - SurvivorMoveScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
